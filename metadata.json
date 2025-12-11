@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Magic: Gesture Tree",
+  "description": "A WebGL interactive Christmas experience. Use hand gestures (Open Hand, Fist, Pinch) to control a particle Christmas tree and explore your photo memories. Features real-time hand tracking and Gemini-powered photo analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
